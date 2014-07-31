@@ -1,0 +1,103 @@
+2014-07-31 14:48:36.358 CordovaExerciseTracker[20366:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 14:48:36.432 CordovaExerciseTracker[20366:70b] Unlimited access to network resources
+2014-07-31 14:48:36.436 CordovaExerciseTracker[20366:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-31 14:48:37.322 CordovaExerciseTracker[20366:70b] [CDVTimer][splashscreen] 195.161045ms
+2014-07-31 14:48:37.324 CordovaExerciseTracker[20366:70b] [CDVTimer][file] 1.144946ms
+2014-07-31 14:48:37.324 CordovaExerciseTracker[20366:70b] [CDVTimer][TotalPluginStartup] 197.180986ms
+2014-07-31 14:48:37.758 CordovaExerciseTracker[20366:70b] Resetting plugins due to page load.
+2014-07-31 14:48:38.347 CordovaExerciseTracker[20366:70b] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61CEDB78-9998-42CD-8A22-EC0E32E43639/CordovaExerciseTracker.app/www/index.html
+2014-07-31 14:53:45.750 CordovaExerciseTracker[20805:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 14:53:45.951 CordovaExerciseTracker[20805:70b] Unlimited access to network resources
+2014-07-31 14:53:45.996 CordovaExerciseTracker[20805:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-31 14:53:57.015 CordovaExerciseTracker[20805:70b] [CDVTimer][splashscreen] 5040.892005ms
+2014-07-31 14:53:57.615 CordovaExerciseTracker[20805:70b] [CDVTimer][file] 502.703011ms
+2014-07-31 14:53:57.616 CordovaExerciseTracker[20805:70b] [CDVTimer][TotalPluginStartup] 5641.904056ms
+2014-07-31 14:54:04.287 CordovaExerciseTracker[20805:70b] Resetting plugins due to page load.
+2014-07-31 14:54:09.365 CordovaExerciseTracker[20805:70b] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61CEDB78-9998-42CD-8A22-EC0E32E43639/CordovaExerciseTracker.app/www/index.html
+2014-07-31 15:33:42.192 CordovaExerciseTracker[20805:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-07-31 15:37:20.260 CordovaExerciseTracker[21555:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 15:37:20.404 CordovaExerciseTracker[21555:70b] Unlimited access to network resources
+2014-07-31 15:37:20.434 CordovaExerciseTracker[21555:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-31 15:37:21.312 CordovaExerciseTracker[21555:70b] [CDVTimer][splashscreen] 260.738969ms
+2014-07-31 15:37:21.335 CordovaExerciseTracker[21555:70b] [CDVTimer][file] 22.635996ms
+2014-07-31 15:37:21.336 CordovaExerciseTracker[21555:70b] [CDVTimer][TotalPluginStartup] 284.485996ms
+2014-07-31 15:37:22.368 CordovaExerciseTracker[21555:70b] Resetting plugins due to page load.
+2014-07-31 15:37:23.528 CordovaExerciseTracker[21555:70b] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61CEDB78-9998-42CD-8A22-EC0E32E43639/CordovaExerciseTracker.app/www/index.html
+2014-07-31 15:45:03.985 CordovaExerciseTracker[22136:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 15:45:04.451 CordovaExerciseTracker[22136:70b] Unlimited access to network resources
+2014-07-31 15:45:04.696 CordovaExerciseTracker[22136:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-31 15:45:09.811 CordovaExerciseTracker[22136:70b] [CDVTimer][splashscreen] 1664.605975ms
+2014-07-31 15:45:09.972 CordovaExerciseTracker[22136:70b] [CDVTimer][file] 144.746006ms
+2014-07-31 15:45:09.972 CordovaExerciseTracker[22136:70b] [CDVTimer][TotalPluginStartup] 1825.688004ms
+2014-07-31 15:45:11.692 CordovaExerciseTracker[22136:70b] Resetting plugins due to page load.
+2014-07-31 15:45:15.816 CordovaExerciseTracker[22136:70b] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61CEDB78-9998-42CD-8A22-EC0E32E43639/CordovaExerciseTracker.app/www/index.html
+2014-07-31 15:45:16.092 CordovaExerciseTracker[22136:70b] THREAD WARNING: ['File'] took '54.936035' ms. Plugin should use a background thread.
+2014-07-31 15:47:53.768 CordovaExerciseTracker[22466:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 15:47:54.135 CordovaExerciseTracker[22466:70b] Unlimited access to network resources
+2014-07-31 15:47:54.416 CordovaExerciseTracker[22466:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-31 15:48:00.810 CordovaExerciseTracker[22466:70b] [CDVTimer][splashscreen] 1958.100975ms
+2014-07-31 15:48:00.955 CordovaExerciseTracker[22466:70b] [CDVTimer][file] 144.105017ms
+2014-07-31 15:48:00.955 CordovaExerciseTracker[22466:70b] [CDVTimer][TotalPluginStartup] 2103.129983ms
+2014-07-31 15:48:02.522 CordovaExerciseTracker[22466:70b] Resetting plugins due to page load.
+2014-07-31 15:48:12.531 CordovaExerciseTracker[22466:70b] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61CEDB78-9998-42CD-8A22-EC0E32E43639/CordovaExerciseTracker.app/www/index.html
+2014-07-31 15:48:14.233 CordovaExerciseTracker[22466:70b] THREAD WARNING: ['File'] took '56.828857' ms. Plugin should use a background thread.
+2014-07-31 15:50:27.831 CordovaExerciseTracker[22783:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 15:50:27.932 CordovaExerciseTracker[22783:70b] Unlimited access to network resources
+2014-07-31 15:50:27.953 CordovaExerciseTracker[22783:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-31 15:50:28.074 CordovaExerciseTracker[22783:70b] [CDVTimer][splashscreen] 95.427990ms
+2014-07-31 15:50:28.076 CordovaExerciseTracker[22783:70b] [CDVTimer][file] 1.269996ms
+2014-07-31 15:50:28.076 CordovaExerciseTracker[22783:70b] [CDVTimer][TotalPluginStartup] 97.552001ms
+2014-07-31 15:50:28.733 CordovaExerciseTracker[22783:70b] Resetting plugins due to page load.
+2014-07-31 15:50:29.888 CordovaExerciseTracker[22783:70b] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61CEDB78-9998-42CD-8A22-EC0E32E43639/CordovaExerciseTracker.app/www/index.html
+2014-07-31 15:54:47.720 CordovaExerciseTracker[23220:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 15:54:48.229 CordovaExerciseTracker[23220:70b] Unlimited access to network resources
+2014-07-31 15:54:48.482 CordovaExerciseTracker[23220:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-31 15:54:51.229 CordovaExerciseTracker[23220:70b] [CDVTimer][splashscreen] 668.440044ms
+2014-07-31 15:54:51.293 CordovaExerciseTracker[23220:70b] [CDVTimer][file] 62.991023ms
+2014-07-31 15:54:51.313 CordovaExerciseTracker[23220:70b] [CDVTimer][TotalPluginStartup] 751.707971ms
+2014-07-31 15:54:53.772 CordovaExerciseTracker[23220:70b] Resetting plugins due to page load.
+2014-07-31 15:54:58.795 CordovaExerciseTracker[23220:70b] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61CEDB78-9998-42CD-8A22-EC0E32E43639/CordovaExerciseTracker.app/www/index.html
+2014-07-31 15:54:59.625 CordovaExerciseTracker[23220:70b] THREAD WARNING: ['NetworkStatus'] took '22.756104' ms. Plugin should use a background thread.
+2014-07-31 15:54:59.796 CordovaExerciseTracker[23220:70b] THREAD WARNING: ['File'] took '170.983887' ms. Plugin should use a background thread.
